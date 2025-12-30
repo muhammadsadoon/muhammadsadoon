@@ -24,8 +24,8 @@
   
 | Category | Tools |
 |-----------|-------|
-| 💻 Frontend | HTML, CSS, JavaScript (ES6+), TypeScript |
-| ⚛️ Frameworks | React.js, Next.js, Vite |
+| 💻 Frontend | HTML, CSS, JavaScript (ES6+), TypeScript,Node js |
+| ⚛️ Frameworks | React.js, Next.js, Vite, Firebase |
 | 🎨 Styling | Tailwind CSS, SCSS, Bootstrap |
 | 🎞️ Animation | GSAP, AOS |
 | 🧰 Tools | Git, GitHub, VS Code, NPM |
