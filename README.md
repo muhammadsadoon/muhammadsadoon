@@ -55,7 +55,7 @@
   <a href="https://www.instagram.com/muhammad_sadoon_786">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://muhammadsadoon-portfolio.surge.sh">
+  <a href="https://muhammadsadoon-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
